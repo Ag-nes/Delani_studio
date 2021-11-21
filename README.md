@@ -25,7 +25,7 @@
 
 
 # Known Bugs
-### Mail chimp API is not so functional.
+### The hoover effect is ni=ot very responsive.
 
 # Technologies Used
 ###  HTML
