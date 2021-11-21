@@ -8,7 +8,8 @@
 ##  This is a webpage of Delani Studio which is showcasing their services, how they do their work and also how a user can reach out to them just incase they need they need their services.
 
 # Live link 
-##   
+##  https://ag-nes.github.io/Delani_studio/
+  
  
 
 # Installations
