@@ -1,8 +1,5 @@
-$(document).ready(functuin(){
-
-    //Do section
-    $('#DESIGN').click(function() {
-        $(this).hide();
-        $('.design').show();
+$(document).ready(function(){
+    $("#design-image").click(function(){
+        $("#design-image").slideDown('1500').hide('1000');
+        $("design").show('1500');
     });
-})
