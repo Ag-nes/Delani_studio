@@ -69,11 +69,37 @@ body {
     text-align: center;
     padding-top: 35px;
 }
+.images{
+    object-fit: cover;
+    width: 80%;
+    height: 80%;
+}
+.overlay{
+    text-align: center;
+    position: relative;
+    display: none;
+}
 
 .contact{
     background-image: url(images/c_image\ \(1\).jpg);
-    color: white;
     background-size: cover;
     padding-top: 5%;
+    background-color: transparent;
+    color: whitesmoke;
+}
+#msg {
+    background-color: transparent;
+    margin-bottom: 25px;
+}
+input[type="text"],
+input[type="email"],
+input[type="submit"],
+#msg {
+    background-color: transparent;
+    margin-bottom: 25px;
+}
+.footer{
+    padding-right: 18px;
+    padding-top: 2%;
 }
 
