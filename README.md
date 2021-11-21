@@ -21,7 +21,7 @@
 
 
 # Known Bugs
-### 
+### The mailchimp API is somehow not functioning..
 
 # Technologies Used
 ###  HTML
@@ -32,3 +32,6 @@
 ##  Incase you need to converse with me, do not hesitate to reach out to me via my personal email;
 ##  Email ; faithagnes2@gmail.com
 ##  Phone ; +254790279917
+
+# Licence
+## MIT 
