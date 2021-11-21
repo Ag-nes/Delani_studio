@@ -11,7 +11,6 @@
 ##  https://ag-nes.github.io/Delani_studio/
   
  
-
 # Installations
 ##  Open terminal
 ##  git clone git@github.com:Ag-nes/Delani_studio.git
@@ -25,11 +24,7 @@
 
 
 # Known Bugs
-<<<<<<< HEAD
-### The mailchimp API is somehow not functioning..
-=======
 ### Mail chimp API is not so functional.S
->>>>>>> master
 
 # Technologies Used
 ###  HTML
