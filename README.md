@@ -33,3 +33,7 @@
 ##  Incase you need to converse with me, do not hesitate to reach out to me via my personal email;
 ##  Email ; faithagnes2@gmail.com
 ##  Phone ; +254790279917
+
+# Licence
+## Copyright MIT ©2021-Agnes Okutoyi
+
