@@ -39,7 +39,7 @@ $(document).ready(function(){
             alert("Hello  " + name +","+ "we have received your message .Thanks for reaching out.") 
         }
         else{
-            alert("Hello,kindly fill the form");
+            alert("Helloo,kindly fill the form");
         }
 
     })
