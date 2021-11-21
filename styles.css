@@ -50,3 +50,9 @@ body {
 .h2{
     text-size-adjust: small;
 }
+
+.Do{
+    padding-top: 30px;
+    font-family: sans-serif;
+    text-align: center;
+}
