@@ -5,7 +5,7 @@
 ##  Agnes Okutoyi
 
 # Description
-##  This is a webpage of Delani Studio which is showcasing their services, how they do their work and also how a user can reach out to them just incase they need they need their services.
+##  This is a webpage of Delani Studio which is showcasing their services, how they do their work and also how a user can reach out to them just incase they need  their services.
 
 # Live link 
 ##  https://ag-nes.github.io/Delani_studio/
@@ -25,7 +25,7 @@
 
 
 # Known Bugs
-### Mail chimp API is not so functional.S
+### Mail chimp API is not so functional.
 
 # Technologies Used
 ###  HTML
