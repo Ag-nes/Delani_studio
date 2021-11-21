@@ -13,7 +13,7 @@
 
 # Installations
 ##  Open terminal
-##  git clone 
+##  git clone git@github.com:Ag-nes/Delani_studio.git
 ##  cd Akan_names
 ##  code . or use atom . based on the text editor you installed.
 
