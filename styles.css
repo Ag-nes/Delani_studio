@@ -75,6 +75,10 @@ body {
 .text{
     position: absolute;
     bottom: 120px;
+    color: white;
+    left: 100px;
+    font-size: 25px;
+    display: none;
 }
 .Portfolio h2{
     font-family: sans-serif;
@@ -83,11 +87,6 @@ body {
 }
 .col-md-3 images{
     width: auto;
-}
-.overlay{
-    text-align: center;
-    position: relative;
-    display: none;
 }
 
 .contact{
@@ -114,5 +113,17 @@ input[type="submit"],
 }
 #designB,#developmentB,#productB {
     display: none;
+}
+@media only screen and (max-width: 700px){
+    #name,#email{
+        width: 60px;
+        display: inline;
+        
+    }
+    #msg{
+        height: 50px;
+        width: 120px;
+    }
+
 }
 
