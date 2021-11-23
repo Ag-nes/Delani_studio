@@ -81,10 +81,8 @@ body {
     text-align: center;
     padding-top: 35px;
 }
-.images{
-    object-fit: cover;
-    width: 80%;
-    height: 80%;
+.col-md-3 images{
+    width: auto;
 }
 .overlay{
     text-align: center;
