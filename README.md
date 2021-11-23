@@ -36,4 +36,4 @@ Javascript
 Incase you need to converse with me, do not hesitate to reach out to me via my personal email at [faithagnes2@gmail.com]
 
 ## Licence 
-* Copyright MIT ©2021-Agnes Okutoyi**
+* Copyright MIT ©2021-Agnes Okutoyi
