@@ -32,16 +32,8 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-    $("#form").submit(function(event){
-        var name=$("input#name").val();
-        var email=$("input#email").val();
-        if( $("input#name").val() && $("input#email").val()){
-            alert("Hello  " + name +","+ "we have received your message .Thanks for reaching out.") 
-        }
-        else{
-            alert("Helloo,kindly fill the form");
-        }
-
+    $("#mc-embedded-subscribe").click(function(){
+        alert("Thank you for contacting us")
     })
 })
 
