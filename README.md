@@ -10,7 +10,7 @@ This is a webpage of Delani Studio which is showcasing their services, how they 
 https://ag-nes.github.io/Delani_studio/
   
 ## Installations
-*Open terminal
+* Open terminal
 
 * git clone ```git@github.com/Ag-nes/Delani_studio.git```
 
