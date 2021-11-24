@@ -32,12 +32,6 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-    $("#mc-embedded-subscribe").click(function(){
-        alert("Thank you for contacting us")
-    })
-})
-
-$(document).ready(function(){
     $("#work1").mouseover(function(){
         $("#overlay").show();
     })
@@ -108,6 +102,8 @@ $(document).ready(function(){
         $("#overlay8").hide()
     });
 });
+
+
 
 
 

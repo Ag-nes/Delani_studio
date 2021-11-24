@@ -97,13 +97,21 @@ body {
     background-color: transparent;
     margin-bottom: 25px;
 }
+::placeholder{
+    color: white;
+}
+#name,#email,#msg{
+    border: 1px solid white;
+}
 input[type="text"],
 input[type="email"],
 input[type="submit"],
 #msg {
     background-color: transparent;
     margin-bottom: 25px;
+    color: white;
 }
+
 .footer{
     padding-right: 18px;
     padding-top: 2%;
@@ -113,7 +121,7 @@ input[type="submit"],
 }
 @media only screen and (max-width: 700px){
     #name,#email{
-        width: 60px;
+        width: 40px;
         display: inline;
         
     }
