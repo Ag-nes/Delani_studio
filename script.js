@@ -103,6 +103,21 @@ $(document).ready(function(){
     });
 });
 
+$(document).ready(function(){
+    $("form").submit(function(event){
+        var name = $("input#name").val();
+        var Email = $("input#email").val();
+        var Message = $("textarea").val();
+        if($("input#name").val() &&$("input#email").val()){
+            alert(name +",  We have received your message.Thank you for reaching out to us");
+        }
+        else{
+            alert("Helloo, Kindly fill the form");
+        }
+
+    })
+})
+
 
 
 
